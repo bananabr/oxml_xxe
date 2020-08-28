@@ -13,7 +13,7 @@ ruby "2.6.2"
 gem 'sinatra'
 gem 'haml'
 gem 'rubyzip'
-gem 'json'
+#gem 'json'
 gem 'nokogiri'
 gem 'data_mapper'
 gem 'dm-sqlite-adapter'
